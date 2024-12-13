@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.35a6eb87.css",
+    "main.js": "/portfolio/static/js/main.666ba5e6.js",
+    "static/js/453.8550938d.chunk.js": "/portfolio/static/js/453.8550938d.chunk.js",
+    "static/media/bg-light.png": "/portfolio/static/media/bg-light.bac0efb485244a522981.png",
+    "static/media/bg-dark.png": "/portfolio/static/media/bg-dark.f420c6b8458af72de935.png",
+    "static/media/avatar.png": "/portfolio/static/media/avatar.e3c50bfa3f9e280e0651.png",
+    "static/media/Visual studio code.png": "/portfolio/static/media/Visual studio code.e66400756ccbdbfc0b31.png",
+    "static/media/Java.png": "/portfolio/static/media/Java.35397b59170cfd616fee.png",
+    "static/media/Python.png": "/portfolio/static/media/Python.94ecec2c55aeb2c39c01.png",
+    "static/media/IntelliJ.png": "/portfolio/static/media/IntelliJ.bd8a26d41909466b0370.png",
+    "static/media/bootstrap.png": "/portfolio/static/media/bootstrap.cb0fcc269e8250f3551b.png",
+    "static/media/css3.png": "/portfolio/static/media/css3.e45638344f12f3855ca0.png",
+    "static/media/soon.jpg": "/portfolio/static/media/soon.af20daaf4605f667e1a5.jpg",
+    "static/media/html5.png": "/portfolio/static/media/html5.b5bec8d17b10d32b29be.png",
+    "static/media/kotlin.png": "/portfolio/static/media/kotlin.5599965ef7996722def1.png",
+    "static/media/Github.png": "/portfolio/static/media/Github.2992ef4712c0404f40e6.png",
+    "static/media/androidstudio.png": "/portfolio/static/media/androidstudio.cf4371411afbde340fe1.png",
+    "static/media/mysql.png": "/portfolio/static/media/mysql.7d8d571e5629923eaf74.png",
+    "index.html": "/portfolio/index.html",
+    "main.35a6eb87.css.map": "/portfolio/static/css/main.35a6eb87.css.map",
+    "main.666ba5e6.js.map": "/portfolio/static/js/main.666ba5e6.js.map",
+    "453.8550938d.chunk.js.map": "/portfolio/static/js/453.8550938d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.35a6eb87.css",
+    "static/js/main.666ba5e6.js"
+  ]
+}
