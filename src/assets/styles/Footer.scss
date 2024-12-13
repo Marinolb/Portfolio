@@ -1,0 +1,26 @@
+footer {
+  text-align: center;
+  padding: 20px;
+
+  div {
+    display: flex;
+    justify-content: center;
+    align-items: center; /* Asegura que el texto y los iconos estén alineados verticalmente */
+    gap: 10px; /* Espaciado uniforme entre los elementos */
+
+    p {
+      margin: 0; /* Elimina el margen para que no desplace los iconos */
+      font-size: 1rem;
+      line-height: 1; /* Ajusta la altura de línea para centrarlo */
+    }
+
+    a {
+      font-size: 1.5rem;
+      transition: transform 0.2s;
+      padding-top: 9px;
+      &:hover {
+        transform: scale(1.2); /* Efecto de hover */
+      }
+    }
+  }
+}
